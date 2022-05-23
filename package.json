@@ -1,0 +1,26 @@
+{
+  "name": "vkr-furniture-studio-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitekch/vkr-furniture-studio-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitekch/vkr-furniture-studio-back/issues"
+  },
+  "homepage": "https://github.com/Vitekch/vkr-furniture-studio-back#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
